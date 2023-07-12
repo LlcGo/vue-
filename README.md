@@ -1,24 +1,6 @@
-# hello-world
+# 回顾vue2
 
-## Project setup
-```
-npm install
-```
+7/12 路由踩坑
++ 路由处 ：/:id 居然用params{id：6} 传接收不到id  应该也是/6 这么传
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
